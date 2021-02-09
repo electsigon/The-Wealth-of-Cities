@@ -2,7 +2,7 @@ Group Member | Andrew ID
 ------------------------
 Viren Bajaj  | vbajaj
 Dylan Steele | dylans
-Can Bostanci | cbonstanc
+Can Bostanci | cbostanc
 
 How to run the code:
 1. Make sure you have the following in same directory as the notebook:
