@@ -1,7 +1,9 @@
 Group Member | Andrew ID
 ------------------------
 Viren Bajaj  | vbajaj
+
 Dylan Steele | dylans
+
 Can Bostanci | cbostanc
 
 How to run the code:
